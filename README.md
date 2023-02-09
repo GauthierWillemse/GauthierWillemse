@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauthierWillemse
-- 👀 I’m interested in globalizing medical education. 
-- 🌱 I’m currently learning basic skills in web development. 
+- 👀 I’m interested in building application in the healthcare space. 
+- 🌱 I’m currently learning web development. 
 - 💞️ I’m looking to collaborate on REACT projects. 
 - 📫 How to reach me: you can find me on Twitter: @Gauthier_Wi
 
