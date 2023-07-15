@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @GauthierWillemse
-- 👀 I’m interested in building application in the healthcare space. 
-- 🌱 I’m currently learning web development. 
-- 💞️ I’m looking to collaborate on REACT projects. 
-- 📫 How to reach me: you can find me on Twitter: @Gauthier_Wi
+Hi, I’m @GauthierWillemse. I am building applications in the healthcare space! 
 
 <!---
 GauthierWillemse/GauthierWillemse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
